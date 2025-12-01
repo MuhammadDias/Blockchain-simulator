@@ -54,7 +54,7 @@ Project ini adalah **Static Web**, jadi sangat mudah dijalankan:
 
 1.  Clone repository ini:
     ```bash
-    git clone [https://github.com/username-kamu/blockchain-simulator.git](https://github.com/username-kamu/blockchain-simulator.git)
+    git clone [https://github.com/MuhammadDias/Blockchain-simulator.git](https://github.com/MuhammadDias/Blockchain-simulator.git)
     ```
 2.  Buka file `index.html` di browser (Chrome/Edge/Firefox).
 3.  Selesai!
@@ -62,9 +62,6 @@ Project ini adalah **Static Web**, jadi sangat mudah dijalankan:
 ## 👤 Author
 
 **Muhammad Dias Al Izzat**
-
-- Mahasiswa Politeknik Elektronika Negeri Surabaya (PENS).
-- Program Studi Teknologi Rekayasa Multimedia.
 
 ---
 
