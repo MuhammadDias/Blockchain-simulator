@@ -2,6 +2,8 @@
 
 Website ini adalah simulator interaktif berbasis web untuk mempelajari konsep dasar teknologi Blockchain. Project ini dibangun menggunakan **HTML, CSS, dan JavaScript murni** (Vanilla JS) dengan antarmuka yang modern dan responsif.
 
+https://muhammaddias.github.io/Blockchain-simulator/
+
 ## 🌟 Fitur Utama
 
 Simulator ini mencakup 5 konsep inti blockchain:
